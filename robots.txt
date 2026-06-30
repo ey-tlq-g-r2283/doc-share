@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ey-tlq-g-r2283.github.io/doc-share/sitemap.xml
